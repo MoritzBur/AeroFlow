@@ -1,4 +1,4 @@
-# autoCFDTool_full_package
+# AeroFlow
 
 * read geometry parameters
 * create volume mesh
@@ -12,7 +12,7 @@
 # A few words about this project
 
 
-autoCDFTool can with minimal user intervention read geometric parameters describing aircraft configurations.
+AeroFlow can with minimal user intervention read geometric parameters describing aircraft configurations.
 It will automatically build a CAD model, parametrically generate volume meshes for CFD and parametrically solve the flow field using adaptive mesh refinement.
 The most important parameters can easily be tweaked to get a better understanding of how this will affect the solution.
 The tool is built with Matlab and Ansys fluent, but can also be adapted to use opensource software for example.
