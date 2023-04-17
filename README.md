@@ -4,7 +4,7 @@
 
 AeroFlow is an automated preprocessing toolbox for computational fluid dynamics (CFD) simulations, designed to streamline the setup process and enhance the efficiency of aeronautical engineering tasks. By automating preprocessing tasks such as reading geometric parameters, building CAD models, generating volume meshes, and utilizing adaptive mesh refinement (AMR), AeroFlow significantly reduces the time, technical expertise, and resources required for CFD simulation setup.
 
-![AeroFlow Introduction Video](https://youtu.be/FSQjp9VBSfE)
+[AeroFlow Introduction Video](https://youtu.be/FSQjp9VBSfE)
 
 ## Features
 
