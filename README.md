@@ -25,7 +25,7 @@ AeroFlow is an automated preprocessing toolbox for computational fluid dynamics 
 
 ## Documentation and Tutorials
 
-For a comprehensive understanding of AeroFlow's features, installation instructions, and basic use cases, please refer to the **[YouTube tutorial series](https://youtube.com/playlist?list=PL9JzI-vUJlxNwIwYHbzn1gQ5c-JrCa3Wt)**.
+For a comprehensive understanding of AeroFlow's features, installation instructions, and basic use cases, please refer to the **[YouTube Tutorial Series](https://youtube.com/playlist?list=PL9JzI-vUJlxNwIwYHbzn1gQ5c-JrCa3Wt)**.
 
 A full PDF documentation is also available within the repository for a more detailed description of AeroFlow's functionality and implementation.
 
